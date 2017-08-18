@@ -1,64 +1,64 @@
-#EXTINF:-1 tvg-logo="al_quran.png",Quran Kareem القران الكريم
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/al_quran.png",Quran Kareem القران الكريم
 http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg",Sunnah  السنة النبوية
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 
-#EXTINF:-1 tvg-logo="jazeeraAtfal.jpg",Aljazeera Atfal الجزيرة أطفال
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/jazeeraAtfal.jpg",Aljazeera Atfal الجزيرة أطفال
 http://sstvb.vdmscdn.com/LQ-AR-Jeem-Europe/tracks-v1a1/index.m3u8?v=3647942850
 
-#EXTINF:-1 tvg-logo="Baraem.png",Baraem براعم
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Baraem.png",Baraem براعم
 http://sstvb.vdmscdn.com/LQ-AR-Baraem/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="majidTV.jpg",Majida Atfal محطة ماجد للأطفال
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/majidTV.jpg",Majida Atfal محطة ماجد للأطفال
 http://cdg3.edge.tmed.pw/daawahtv_abr/live/daawahtv/live_640p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="ajial.png",Ajial Kinder اجيال للأطفال
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/ajial.png",Ajial Kinder اجيال للأطفال
 http://sstvb.vdmscdn.com/LQ-AR-Ajyal/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="Da3wa.jpg",Da3owa TV دعوة
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Da3wa.jpg",Da3owa TV دعوة
 http://cdg3.edge.tmed.pw/daawahtv_abr/live/daawahtv/live_640p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="Alnas.png",Alnas الناس
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Alnas.png",Alnas الناس
 http://sstvb.vdmscdn.com/LQ-AR-AlNas/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="iqraa.jpg",Iqraa اقرأ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/iqraa.jpg",Iqraa اقرأ
 http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
 
-#EXTINF:-1 tvg-logo="Almajd.jpg",Almajd المجد
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Almajd.jpg",Almajd المجد
 http://sstvb.vdmscdn.com/LQ-AR-AlMajd3/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="Rotana.png",Rotana Live TV روتانا
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Rotana.png",Rotana Live TV روتانا
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 
-#EXTINF:-1 tvg-logo="Mbc1.png",MBC 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Mbc1.png",MBC 1
 http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8
-#EXTINF:-1 tvg-logo="MBC2.jpg",MBC 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC2.jpg",MBC 2
 http://sstvb.vdmscdn.com/LQ-AR-MBC2/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="MBC4.jpg",MBC 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC4.jpg",MBC 4
 http://sstvb.vdmscdn.com/LQ-AR-MBC4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="MBCMax.png",MBC Max
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCMax.png",MBC Max
 http://sstvb.vdmscdn.com/LQ-AR-MBC4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="MBCAction.png",MBC Action
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCAction.png",MBC Action
 http://sstvb.vdmscdn.com/LQ-AR-MBC-Action/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="AljazeeraDoku.png",Aljazeera Dokumentation الجزيرة الوثائقية
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AljazeeraDoku.png",Aljazeera Dokumentation الجزيرة الوثائقية
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
 
-#EXTINF:-1 tvg-logo="sharjah.png",Alsharjah الشارقة
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/sharjah.png",Alsharjah الشارقة
 https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b625000.m3u8
 
-#EXTINF:-1 tvg-logo="alresalah.jpg",Alresalah TV الرسالة 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/alresalah.jpg",Alresalah TV الرسالة 
 http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
 
-#EXTINF:-1 tvg-logo="SyrDrama.jpg",Syria Drama سوريا دراما
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/SyrDrama.jpg",Syria Drama سوريا دراما
 http://selevision9876-i.akamaihd.net/hls/live/219116/98768/1.m3u8
 
-#EXTINF:-1 tvg-logo="NileDrama.png",Nile Drama النيل دراما
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/NileDrama.png",Nile Drama النيل دراما
 http://selevision9882-i.akamaihd.net/hls/live/219203/98829/1.m3u8
 
-#EXTINF:-1 tvg-logo="NileCenima.png",Nile Cinima النيل سينما
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/NileCenima.png",Nile Cinima النيل سينما
 http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
 
-#EXTINF:-1 tvg-logo="nileComedyl.png",Nile Comedy النيل الكوميدي
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/nileComedyl.png",Nile Comedy النيل الكوميدي
 http://selevision9882-i.akamaihd.net/hls/live/219201/98827/1.m3u8
