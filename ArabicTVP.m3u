@@ -6,9 +6,6 @@ http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg",Sunnah  السنة النبوية
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/kika.png",Kika
-http://hlsonline.kika.de/i/mp4dyn/f/VOIDfde2b3d8-8e72-4d6d-940d-a1cd212a869a.smil/index_256000_av.m3u8
-
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/toyor.jpg",Toyor Aljannah
 #http://www.elahmad.com/tv/toyoraljanah.php
 https://www.youtube.com/watch?v=PrerHSj4jDg
