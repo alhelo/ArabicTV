@@ -51,9 +51,6 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/assadissa-video=4388
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/arriadia.jpg", الرياضية المغربية
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-video=438800-audio_AACL_qad_130400_110=130400.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Rotana.png",Rotana Live TV روتانا
-http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Mbc1.png",MBC 1
 http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC2.jpg",MBC 2
@@ -76,12 +73,3 @@ http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/SyrDrama.jpg",Syria Drama سوريا دراما
 http://selevision9876-i.akamaihd.net/hls/live/219116/98768/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/NileDrama.png",Nile Drama النيل دراما
-http://selevision9882-i.akamaihd.net/hls/live/219203/98829/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/NileCenima.png",Nile Cinima النيل سينما
-http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/nileComedyl.png",Nile Comedy النيل الكوميدي
-http://selevision9882-i.akamaihd.net/hls/live/219201/98827/1.m3u8
