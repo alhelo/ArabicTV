@@ -4,17 +4,23 @@ http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg",Sunnah  السنة النبوية
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/kika.png",Kika
+http://hlsonline.kika.de/i/mp4dyn/f/VOIDfde2b3d8-8e72-4d6d-940d-a1cd212a869a.smil/index_256000_av.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/jazeeraAtfal.jpg",Aljazeera Atfal الجزيرة أطفال
 http://sstvb.vdmscdn.com/LQ-AR-Jeem-Europe/tracks-v1a1/index.m3u8?v=3647942850
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Baraem.png",Baraem براعم
 http://sstvb.vdmscdn.com/LQ-AR-Baraem/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/majidTV.jpg",Majida Atfal محطة ماجد للأطفال
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/majidTV.jpg",Majid Atfal محطة ماجد للأطفال
 http://cdg3.edge.tmed.pw/daawahtv_abr/live/daawahtv/live_640p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/ajial.png",Ajial Kinder اجيال للأطفال
 http://sstvb.vdmscdn.com/LQ-AR-Ajyal/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/aljazeera.png",Aljazeera الجزيرة
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Da3wa.jpg",Da3owa TV دعوة
 http://cdg3.edge.tmed.pw/daawahtv_abr/live/daawahtv/live_640p/chunks.m3u8
