@@ -34,6 +34,13 @@ http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Almajd.jpg",Almajd المجد
 http://sstvb.vdmscdn.com/LQ-AR-AlMajd3/tracks-v1a1/index.m3u8
 
+#http://www.elahmad.com/tv/arryadia_maroc.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/arriadia.jpg", الرياضية المغربية
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-video=438800-audio_AACL_qad_130400_110=130400.m3u8
+
+#http://www.elahmad.com/tv/assadissa-maroc.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/assadissa.jpg", السادسة المغربية
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/assadissa-video=438800-audio_AACL_qad_130400_110=130400.m3u8ش
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Rotana.png",Rotana Live TV روتانا
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 
