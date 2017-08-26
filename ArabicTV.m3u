@@ -24,6 +24,8 @@ http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/ajial.png",Ajial Kinder اجيال للأطفال
 http://sstvb.vdmscdn.com/LQ-AR-Ajyal/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/ajial.png", 07 Ajial live Youtube
+https://www.youtube.com/watch?v=USOuZ96mNMQ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/aljazeera.png",Aljazeera الجزيرة
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
