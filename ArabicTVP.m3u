@@ -9,14 +9,15 @@ http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 
 #http://www.elahmad.com/tv/alafasytv.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Afasy.jpg", العفاسي Al-Afasy
-http://arabolivo.gcdn.co/LQ-AR-Al-Afasy/tracks-v1a1/index.m3u8
+http://estand.casacam.net/LQ-AR-Al-Afasy/tracks-v1a1/index.m3u8
+
 #http://www.elahmad.com/tv/toyoraljanah.php
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/toyor.jpg", Toyor Aljannah
 https://www.youtube.com/watch?v=PrerHSj4jDg
 
 #http://www.elahmad.com/tv/aljazeera_children.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/jazeeraAtfal.jpg", Aljazeera Atfal الجزيرة أطفال
-http://arabolivo.gcdn.co/LQ-AR-Jeem-Europe/tracks-v1a1/index.m3u8
+http://estand.casacam.net/LQ-AR-Jeem-Europe/tracks-v1a1/index.m3u8
 
 #http://www.elahmad.com/tv/baraem.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Baraem.png", Baraem براعم
@@ -28,7 +29,7 @@ http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 
 #http://www.elahmad.com/tv/saudiajyaltv.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/ajial.png", Ajial Kinder اجيال للأطفال
-http://sstvb.vdmscdn.com/LQ-AR-Ajyal/tracks-v1a1/index.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel9/1.m3u8?v=3647942850
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/ajial.png", Ajial live Youtube
 https://www.youtube.com/watch?v=USOuZ96mNMQ
@@ -45,19 +46,11 @@ http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
 
 #http://www.elahmad.com/tv/alnas-tv-live.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Alnas.png", Alnas الناس
-http://arabolivo.gcdn.co/LQ-AR-AlNas/tracks-v1a1/index.m3u8
+http://estand.casacam.net/LQ-AR-AlNas/tracks-v1a1/index.m3u8
 
 #4Shabab http://www.elahmad.com/tv/4shbab.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/shabab.jpg", 4Shabab
-http://livestream-f.akamaihd.net/i/13608789_4065056_lsicqadoo282dt5mvao_1@122274/index_446_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1505901844~acl=%2fi%2f13608789_4065056_lsicqadoo282dt5mvao_1%40122274%2f*~data=hdntl~hmac=f797feee7fbdafd140fa3d9a3eadd86a4265c5c1815050e7f3448e1c460c2596
-
-#http://www.elahmad.com/tv/embed.php?id=daawahtv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Da3wa.jpg", Da3owa TV دعوة
-http://cdg3.edge.tmed.pw/daawahtv_abr/live/daawahtv/live_640p/chunks.m3u8
-
-#http://www.elahmad.com/tv/almajdtv.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Almajd.jpg", Almajd المجد
-http://sstvb.vdmscdn.com/LQ-AR-AlMajd3/tracks-v1a1/index.m3u8
+http://livestream-f.akamaihd.net/i/13608789_4065056_lsiagrcr3vtpbqpuh34_1@408515/index_446_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1506162227~acl=%2fi%2f13608789_4065056_lsiagrcr3vtpbqpuh34_1%40408515%2f*~data=hdntl~hmac=e082083e0a6d0e1d50bf15d6003c770a8668aec6affe594fd86fa621c8b7aad7
 
 #http://www.elahmad.com/tv/assadissa-maroc.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/assadissa.jpg", السادسة المغربية
@@ -72,15 +65,17 @@ http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #MBC Sendungen#
 #http://www.elahmad.com/tv/mbc.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Mbc1.png", MBC 1
-http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8
+http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC2.jpg", MBC 2
-http://arabolivo.gcdn.co/LQ-AR-MBC2/tracks-v1a1/index.m3u8
+http://estand.casacam.net/LQ-AR-MBC2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC4.jpg", MBC 4
-http://arabolivo.gcdn.co/LQ-AR-MBC4/tracks-v1a1/index.m3u8
+http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCMax.png", MBC Max
 http://sstvb.vdmscdn.com/LQ-AR-MBC4/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCdrama.png", MBC Max
+http://estand.casacam.net/LQ-AR-MBC-MAX/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCAction.png", MBC Action
-http://arabolivo.gcdn.co/LQ-AR-MBC-Action/tracks-v1a1/index.m3u8
+http://estand.casacam.net/LQ-AR-MBC-Action/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AljazeeraDoku.png",1 Aljazeera Dokumentation الجزيرة الوثائقية
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
