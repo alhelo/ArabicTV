@@ -76,3 +76,21 @@ http://sstvb.vdmscdn.com/LQ-AR-MBC4/tracks-v1a1/index.m3u8
 http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCAction.png", MBC Action
 http://estand.casacam.net/LQ-AR-MBC-Action/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AljazeeraDoku.png",1 Aljazeera Dokumentation الجزيرة الوثائقية
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/sharjah.png",  Alsharjah الشارقة
+https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b625000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/SyrDrama.jpg", Syria Drama سوريا دراما
+http://selevision9876-i.akamaihd.net/hls/live/219116/98768/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/NileDrama.png", Nile Drama النيل دراما
+http://selevision9882-i.akamaihd.net/hls/live/219203/98829/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/NileCenima.png", 26 Nile Cinima النيل سينما
+http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/nileComedyl.png", 27 Nile Comedy النيل الكوميدي
+http://selevision9882-i.akamaihd.net/hls/live/219201/98827/1.m3u8
