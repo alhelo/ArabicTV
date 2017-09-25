@@ -65,15 +65,15 @@ http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #MBC Sendungen#
 #http://www.elahmad.com/tv/mbc.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Mbc1.png", MBC 1
-http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
+http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC2.jpg", MBC 2
 http://estand.casacam.net/LQ-AR-MBC2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC4.jpg", MBC 4
 http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCMax.png", MBC Max
 http://sstvb.vdmscdn.com/LQ-AR-MBC4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCdrama.png", MBC Max
-http://estand.casacam.net/LQ-AR-MBC-MAX/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCdrama.png", MBC Drama
+http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCAction.png", MBC Action
 http://estand.casacam.net/LQ-AR-MBC-Action/tracks-v1a1/index.m3u8
 
