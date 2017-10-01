@@ -6,7 +6,11 @@ http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg", Sunnah السنة النبوية
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/XXX.jpg", العريفي
+http://de.live.net.sa:1935/live/alj/chunklist_w801158021.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Da3wa.jpg", دعوة
+http://46.101.172.110:8081/daawahtv_source/live2/chunks.m3u8?nimblesessionid=6633772
 #http://www.elahmad.com/tv/alafasytv.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Afasy.jpg", العفاسي Al-Afasy
 http://estand.casacam.net/LQ-AR-Al-Afasy/tracks-v1a1/index.m3u8
@@ -14,6 +18,9 @@ http://estand.casacam.net/LQ-AR-Al-Afasy/tracks-v1a1/index.m3u8
 #http://www.elahmad.com/tv/toyoraljanah.php
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/toyor.jpg", Toyor Aljannah
 https://www.youtube.com/watch?v=PrerHSj4jDg
+#
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/rushd.jpg", قناة رشد
+http://46.101.172.110:8081/daawahtv_source/live2/chunks.m3u8
 
 #http://www.elahmad.com/tv/aljazeera_children.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/jazeeraAtfal.jpg", Aljazeera Atfal الجزيرة أطفال
