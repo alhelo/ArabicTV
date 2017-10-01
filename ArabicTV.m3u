@@ -52,7 +52,7 @@ http://estand.casacam.net/LQ-AR-AlNas/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/shabab.jpg", 4Shabab
 http://livestream-f.akamaihd.net/i/13608789_4065056_lsiagrcr3vtpbqpuh34_1@408515/index_446_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1506162227~acl=%2fi%2f13608789_4065056_lsiagrcr3vtpbqpuh34_1%40408515%2f*~data=hdntl~hmac=e082083e0a6d0e1d50bf15d6003c770a8668aec6affe594fd86fa621c8b7aad7
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/mekameleen.jpg", مكمليين Mekameleen 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/mkameleen.jpg", مكمليين Mekameleen 
 http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist_b1800000.m3u8
 
 #http://www.elahmad.com/tv/assadissa-maroc.php
