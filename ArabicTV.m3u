@@ -18,9 +18,6 @@ http://estand.casacam.net/LQ-AR-Al-Afasy/tracks-v1a1/index.m3u8
 #http://www.elahmad.com/tv/toyoraljanah.php
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/toyor.jpg", Toyor Aljannah
 https://www.youtube.com/watch?v=PrerHSj4jDg
-#
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/rushd.jpg", قناة رشد
-http://46.101.172.110:8081/daawahtv_source/live2/chunks.m3u8
 
 #http://www.elahmad.com/tv/aljazeera_children.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/jazeeraAtfal.jpg", Aljazeera Atfal الجزيرة أطفال
