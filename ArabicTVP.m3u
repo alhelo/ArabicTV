@@ -6,9 +6,9 @@ http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg", Sunnah السنة النبوية
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/XXX.jpg", العريفي
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Arify.jpg", العريفي
 http://de.live.net.sa:1935/live/alj/chunklist_w801158021.m3u8
-
+Q
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Da3wa.jpg", دعوة
 http://46.101.172.110:8081/daawahtv_source/live2/chunks.m3u8?nimblesessionid=6633772
 #http://www.elahmad.com/tv/alafasytv.php
@@ -60,7 +60,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/assadissa-video=4388
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-video=438800-audio_AACL_qad_130400_110=130400.m3u8
 
 #http://www.elahmad.com/tv/abu-dhabi-tvlive.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Abu_Dhabi_Al_Oula_logo.png", Abu Dhabi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AbuDhabi.png", Abu Dhabi
 http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
 
 #Dubai
@@ -98,7 +98,7 @@ http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Mbc1.png", MBC 1
 http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC2.jpg", MBC 2
-http://estand.casacam.net/LQ-AR-MBC2/tracks-v1a1/index.m3u8
+#http://estand.casacam.net/LQ-AR-MBC2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC4.jpg", MBC 4
 http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCMax.png", MBC Max
