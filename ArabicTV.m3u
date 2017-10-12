@@ -6,7 +6,7 @@ http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg", Sunnah السنة النبوية
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/XXX.jpg", العريفي
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Arify.jpg", العريفي
 http://de.live.net.sa:1935/live/alj/chunklist_w801158021.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Da3wa.jpg", دعوة
@@ -60,7 +60,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/assadissa-video=4388
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-video=438800-audio_AACL_qad_130400_110=130400.m3u8
 
 #http://www.elahmad.com/tv/abu-dhabi-tvlive.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Abu_Dhabi_Al_Oula_logo.png", Abu Dhabi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AbuDhabi.png", Abu Dhabi
 http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
 
 #Dubai
