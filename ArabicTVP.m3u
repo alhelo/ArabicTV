@@ -8,7 +8,7 @@ http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Arify.jpg", العريفي
 http://de.live.net.sa:1935/live/alj/chunklist_w801158021.m3u8
-Q
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Da3wa.jpg", دعوة
 http://46.101.172.110:8081/daawahtv_source/live2/chunks.m3u8?nimblesessionid=6633772
 #http://www.elahmad.com/tv/alafasytv.php
