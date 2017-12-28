@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,ZEE AFLAM
+#EXTINF:-1 group-title="IPTV", ZEE AFLAM
 http://130.185.144.63:8000/live/arabic/arabic/1000.ts
 #EXTINF:-1,UNIVERSAL TV
 http://130.185.144.63:8000/live/arabic/arabic/999.ts
