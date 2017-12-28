@@ -33,7 +33,7 @@ http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel9/1.m3u8?v=3647942850
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/aljazeera.png", Aljazeera الجزيرة
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 
-#http://www.elahmad.com/tv/iqraatv.php
+#http://www.elahmad.com/tv/iqraatv.php 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/iqraa.jpg", Iqraa اقرأ
 http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
 
