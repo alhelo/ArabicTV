@@ -1,9 +1,9 @@
 #http://www.elahmad.com/tv/qurantv.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/al_quran.png"group-title="IPTV", Quran Kareem القران الكريم
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/al_quran.png"group-title="IPTV1", Quran Kareem القران الكريم
 http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 
 #http://www.elahmad.com/tv/sunnatv.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg" group-title="IPTV", Sunnah السنة النبوية
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg" group-title="IPTV2", Sunnah السنة النبوية
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Arify.jpg", العريفي
