@@ -14,13 +14,14 @@ http://de.live.net.sa:1935/live/alj/chunklist_w801158021.m3u8
 
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Da3wa.jpg", دعوة
 #http://46.101.172.110:8081/daawahtv_source/live2/chunks.m3u8?nimblesessionid=6633772
+
 #http://www.elahmad.com/tv/alafasytv.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Afasy.jpg", العفاسي Al-Afasy
-http://estand.casacam.net/LQ-AR-Al-Afasy/tracks-v1a1/index.m3u8
+http://www.elahmad.com/rainbow1.ani
 
 #http://www.elahmad.com/tv/toyoraljanah.php
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/toyor.jpg", Toyor Aljannah
-https://www.youtube.com/watch?v=PrerHSj4jDg
+https://www.youtube.com/watch?v=-7CSlsNEBro
 
 #http://www.elahmad.com/tv/aljazeera_children.php
 #http://www.elahmad.com/tv/baraem.php
@@ -31,7 +32,7 @@ http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 
 #http://www.elahmad.com/tv/saudiajyaltv.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/ajial.png", Ajial Kinder اجيال للأطفال
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel9/1.m3u8?v=3647942850
+http://selevision9881-i.akamaihd.net/hls/live/219191/98818/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/aljazeera.png", Aljazeera الجزيرة
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
