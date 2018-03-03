@@ -52,8 +52,8 @@ http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/shabab.jpg", 4Shabab
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/mkameleen.jpg", مكمليين Mekameleen 
-http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist_b1800000.m3u8
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/mkameleen.jpg", مكمليين Mekameleen 
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b800000.m3u8
 
 #http://www.elahmad.com/tv/assadissa-maroc.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/assadissa.jpg", السادسة المغربية
@@ -64,12 +64,12 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/assadissa-video=4388
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-video=438800-audio_AACL_qad_130400_110=130400.m3u8
 
 #http://www.elahmad.com/tv/abu-dhabi-tvlive.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AbuDhabi.png", Abu Dhabi
-http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+\EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AbuDhabi.png", Abu Dhabi
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?v=1449270632
 
 #Dubai
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Dubai.png", Dubai دبي
-http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1600000.m3u8
+http://dmifr.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b250000.m3u8
 #sama Dubai 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/SamaDubai.jpg", سما دبي
 http://selevision9878-i.akamaihd.net/hls/live/219135/98787/1.m3u8
@@ -80,7 +80,7 @@ http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m
 
 #Dubai Zaman dubaizaman.png
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/dubaizaman.png", دبي زمان
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b120000.m3u8
 
 #Nour Dubai NoorDubai.jpg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/NoorDubai.jpg", نور دبي
@@ -88,7 +88,7 @@ http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_b12000
 
 #Dubai One 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/DubaiOne.jpg", Dubai One
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b750000.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Rotana.png",5 Rotana Live TV روتانا
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
