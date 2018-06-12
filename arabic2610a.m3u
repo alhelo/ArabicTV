@@ -1,0 +1,1478 @@
+#EXTINF:-1,~ Arabic News ~
+http://192.99.35.215:5109/stream
+#EXTINF:-1,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,Deutsche Welle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1,TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1,Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1,Arabica TV
+https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
+#EXTINF:-1,Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+#EXTINF:-1,Al Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1,ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1,Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+#EXTINF:-1,Al Taghier
+http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+#EXTINF:-1,Amen FM 89.5
+http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+#EXTINF:-1,Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,Masdar TV
+http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+#EXTINF:-1,Wanasah
+http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
+#EXTINF:-1,Al Aan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+#EXTINF:-1,Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1,Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
+#EXTINF:-1,Dubai TV*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1,Dubai One**
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1,Dubai Zaman*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1,Dubai Sports*
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1,Sama Dubai*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1,YAS Sports
+http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
+#EXTINF:-1,Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1,Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1,National Geographic
+http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
+#EXTINF:-1,Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,Abu Dhabi Sports SD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1,Abu Dhabi Sports SD*
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,Abu Dhabi Sports HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Abu Dhabi Sports 2 SD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 SD*
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1,Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1,Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1,Al Jazeera
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:-1,Al Jazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+#EXTINF:-1,Al Jazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1,Al Rai
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:-1,KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1,KTV 1*
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:-1,KTV 2
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+#EXTINF:-1,KTV 2*
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1,KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1,KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1,KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1,KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1,Oman TV
+http://38.96.148.30:1935/live/omantv1//playlist.m3u8
+#EXTINF:-1,Oman Mubasher
+http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+#EXTINF:-1,Oman Documentary
+http://38.96.148.30:1935/live/omantv4/playlist.m3u8
+#EXTINF:-1,Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:-1,CBC
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
+#EXTINF:-1,Mekameleen
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
+#EXTINF:-1,Nessma*
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+#EXTINF:-1,Al Nabaa
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
+#EXTINF:-1,Libya TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:-1,Al Aoula Int'l
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1,Al Aoula Laayoune
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1,Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,Arrabiaa
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1,Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1,Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,AR: OSN Action
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95729.ts
+#EXTINF:-1,AR: OSN ACTION MOVIES HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89302.ts
+#EXTINF:-1,AR: OSN AD SPORTS 1 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/74671.ts
+#EXTINF:-1,AR: OSN Ad Sports 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/74672.ts
+#EXTINF:-1,AR: OSN AD SPORTS 3
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89300.ts
+#EXTINF:-1,AR: OSN AD SPORTS 4
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89301.ts
+#EXTINF:-1,AR: OSN Al SAFWA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63342.ts
+#EXTINF:-1,AR: OSN AL Youm HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/88761.ts
+#EXTINF:-1,AR: OSN ALKASS SPORT 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89303.ts
+#EXTINF:-1,AR: OSN ALKASS SPORT 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89304.ts
+#EXTINF:-1,AR: OSN Alkass Sport 3
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95723.ts
+#EXTINF:-1,AR: OSN ALKASS SPORT 4
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89305.ts
+#EXTINF:-1,AR: OSN ANIMAL PLANET HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/88763.ts
+#EXTINF:-1,AR: OSN Arabic Al Yawm
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63276.ts
+#EXTINF:-1,AR: OSN ART Aflam 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63341.ts
+#EXTINF:-1,AR: OSN ART Aflam 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63340.ts
+#EXTINF:-1,AR: OSN ART Cinema
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63339.ts
+#EXTINF:-1,AR: OSN ART Hekayat 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63338.ts
+#EXTINF:-1,AR: OSN ART Hekayat 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63337.ts
+#EXTINF:-1,AR: OSN Box Office 1 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63336.ts
+#EXTINF:-1,AR: OSN Box Office 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63335.ts
+#EXTINF:-1,AR: OSN Box Office 3 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63334.ts
+#EXTINF:-1,AR: OSN CBC reality
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63121.ts
+#EXTINF:-1,AR: OSN Cinema 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63120.ts
+#EXTINF:-1,AR: OSN Cinema 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/88760.ts
+#EXTINF:-1,AR: OSN COMEDY
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102130.ts
+#EXTINF:-1,AR: OSN Discovery HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/68230.ts
+#EXTINF:-1,AR: OSN Discovery History
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89310.ts
+#EXTINF:-1,AR: OSN Discovery Science HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89311.ts
+#EXTINF:-1,AR: OSN DRAMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100844.ts
+#EXTINF:-1,AR: OSN FATAFEAT HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89312.ts
+#EXTINF:-1,AR: OSN First Comedy
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95698.ts
+#EXTINF:-1,AR: OSN First HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95710.ts
+#EXTINF:-1,AR: OSN FOX ACTION MOVIES HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89313.ts
+#EXTINF:-1,AR: OSN FUEL HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89314.ts
+#EXTINF:-1,AR: OSN HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63118.ts
+#EXTINF:-1,AR: OSN Home Cinema 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63332.ts
+#EXTINF:-1,AR: OSN Home Cinema 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63331.ts
+#EXTINF:-1,AR: OSN Home Cinema 4
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63329.ts
+#EXTINF:-1,AR: OSN Home Cinema 5
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63328.ts
+#EXTINF:-1,AR: OSN Home Cinema 6
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63327.ts
+#EXTINF:-1,AR: OSN Home Cinema 7
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63326.ts
+#EXTINF:-1,AR: OSN Home Cinema 8
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63325.ts
+#EXTINF:-1,AR: OSN Home Cinema 9
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63324.ts
+#EXTINF:-1,AR: OSN Home Cinema 10
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63322.ts
+#EXTINF:-1,AR: OSN ID
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/93951.ts
+#EXTINF:-1,AR: OSN Imagine Movies HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63281.ts
+#EXTINF:-1,AR: OSN MBC Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95701.ts
+#EXTINF:-1,AR: OSN MBC Plus Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95708.ts
+#EXTINF:-1,AR: OSN MBC PRO SPORTS 1 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89315.ts
+#EXTINF:-1,AR: OSN MBC PRO SPORTS 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89316.ts
+#EXTINF:-1,AR: OSN MBC PRO SPORTS 3 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89317.ts
+#EXTINF:-1,AR: OSN MOUSSALSALAT
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89318.ts
+#EXTINF:-1,AR: OSN Movies 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63319.ts
+#EXTINF:-1,AR: OSN MOVIES 4 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100852.ts
+#EXTINF:-1,AR: OSN Movies Action 1 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/86797.ts
+#EXTINF:-1,AR: OSN MOVIES ACTION 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/86781.ts
+#EXTINF:-1,AR: OSN Movies Action HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63312.ts
+#EXTINF:-1,AR: OSN Movies Comedy HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63308.ts
+#EXTINF:-1,AR: OSN MOVIES DRAMA 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89321.ts
+#EXTINF:-1,AR: OSN Movies DRAMA HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63302.ts
+#EXTINF:-1,AR: OSN Movies Festival HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63306.ts
+#EXTINF:-1,AR: OSN Movies First HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63316.ts
+#EXTINF:-1,AR: OSN Movies HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/70240.ts
+#EXTINF:-1,AR: OSN Movies HD Box Office 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63301.ts
+#EXTINF:-1,AR: OSN Movies HD Box Office 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63300.ts
+#EXTINF:-1,AR: OSN Movies HD Box Office 3
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63299.ts
+#EXTINF:-1,AR: OSN MOVIES Kids HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63314.ts
+#EXTINF:-1,AR: OSN MOVIES PREMIERE 1 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89322.ts
+#EXTINF:-1,AR: OSN MOVIES PREMIERE 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/88746.ts
+#EXTINF:-1,AR: OSN Movies Premiere HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63318.ts
+#EXTINF:-1,AR: OSN Movies Star HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63284.ts
+#EXTINF:-1,AR: OSN Music Now
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63298.ts
+#EXTINF:-1,AR: OSN NAT GEO HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/70239.ts
+#EXTINF:-1,AR: OSN NAT GEO PEOPLE HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89326.ts
+#EXTINF:-1,AR: OSN NAT GEO Wild HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/68217.ts
+#EXTINF:-1,AR: OSN Nickelodeon HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89327.ts
+#EXTINF:-1,AR: OSN ON DEMAND
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102134.ts
+#EXTINF:-1,AR: OSN ON DEMAND 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/68240.ts
+#EXTINF:-1,AR: OSN ON DEMAND 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89328.ts
+#EXTINF:-1,AR: OSN ON DEMAND Extra 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63297.ts
+#EXTINF:-1,AR: OSN ON DEMAND Extra 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100846.ts
+#EXTINF:-1,AR: OSN ON DEMAND Extra 3
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100845.ts
+#EXTINF:-1,AR: OSN ORBIT CINEMA 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63294.ts
+#EXTINF:-1,AR: OSN OSN On Demand 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/88758.ts
+#EXTINF:-1,AR: OSN SEEVII AL AOULA HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63280.ts
+#EXTINF:-1,AR: OSN SEEVII BEELINK HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63279.ts
+#EXTINF:-1,AR: OSN SEEVII DRAMA HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63278.ts
+#EXTINF:-1,AR: OSN SeeVii Shamiya HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89333.ts
+#EXTINF:-1,AR: OSN Series Comedy HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63283.ts
+#EXTINF:-1,AR: OSN Series First HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63282.ts
+#EXTINF:-1,AR: OSN Sports 1 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89335.ts
+#EXTINF:-1,AR: OSN SPORTS 3 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/86785.ts
+#EXTINF:-1,AR: OSN SPORTS 4 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/86786.ts
+#EXTINF:-1,AR: OSN STAR GOLD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89337.ts
+#EXTINF:-1,AR: OSN Star Movies HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/68234.ts
+#EXTINF:-1,AR: OSN Star World HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63114.ts
+#EXTINF:-1,AR: OSN WWE HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63274.ts
+#EXTINF:-1,AR: OSN Ya Hala Al Oula 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63289.ts
+#EXTINF:-1,AR: OSN Ya Hala AL OULA HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63287.ts
+#EXTINF:-1,AR: OSN Ya Hala CINEMA HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63285.ts
+#EXTINF:-1,AR: OSN Ya Hala Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/88754.ts
+#EXTINF:-1,AR: OSN Ya Hala HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63290.ts
+#EXTINF:-1,AR: OSN Ya Halla Shabab
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95703.ts
+#EXTINF:-1,AR: OSN YAHALA SHABAB
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89341.ts
+#EXTINF:-1,AR: MyHD FilmBox
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78047.ts
+#EXTINF:-1,AR: MyHD FOX HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78043.ts
+#EXTINF:-1,AR: MyHD FOX Movies
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/97750.ts
+#EXTINF:-1,AR: MyHD Fox Movies Action HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78042.ts
+#EXTINF:-1,AR: MyHD Fox Movies Family
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95247.ts
+#EXTINF:-1,AR: MyHD MBC 1 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78069.ts
+#EXTINF:-1,AR: MyHD MBC 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78068.ts
+#EXTINF:-1,AR: MyHD MBC 3 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78067.ts
+#EXTINF:-1,AR: MyHD MBC 4 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78066.ts
+#EXTINF:-1,AR: MyHD MBC Action HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78064.ts
+#EXTINF:-1,AR: MyHD MBC Drama HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78062.ts
+#EXTINF:-1,AR: MyHD MBC Drama PLUS
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/93773.ts
+#EXTINF:-1,AR: MyHD MBC MAX HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78061.ts
+#EXTINF:-1,AR: MyHD MBC Pro1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95252.ts
+#EXTINF:-1,AR: MyHD MBC Pro2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95253.ts
+#EXTINF:-1,AR: MyHD MBC Variety HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78060.ts
+#EXTINF:-1,AR: MyHD MY Cinema
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78038.ts
+#EXTINF:-1,AR: beIN Movies ACTION
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/94401.ts
+#EXTINF:-1,AR: beIN Movies HD 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63273.ts
+#EXTINF:-1,AR: beIN Movies HD 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63271.ts
+#EXTINF:-1,AR: beIN Movies HD 3
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63270.ts
+#EXTINF:-1,AR: beIN Movies HD 4
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/88422.ts
+#EXTINF:-1,AR: beIN SERIES
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/94397.ts
+#EXTINF:-1,AR: beIN Series HD 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95251.ts
+#EXTINF:-1,AR: DUBAI DRAMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63175.ts
+#EXTINF:-1,AR: DUBAI NOUR
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63176.ts
+#EXTINF:-1,AR: DUBAI ONE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63177.ts
+#EXTINF:-1,AR: DUBAI RACING
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63178.ts
+#EXTINF:-1,AR: Dubai Racing 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63179.ts
+#EXTINF:-1,AR: Dubai Sports
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73335.ts
+#EXTINF:-1,AR: Dubai Sports 3 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63180.ts
+#EXTINF:-1,AR: DUBAI SPORTS 4
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73336.ts
+#EXTINF:-1,AR: Dubai TV HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63181.ts
+#EXTINF:-1,AR: DUBAI ZAMAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73357.ts
+#EXTINF:-1,AR: MBC 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63204.ts
+#EXTINF:-1,AR: MBC 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63205.ts
+#EXTINF:-1,AR: MBC 3 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63108.ts
+#EXTINF:-1,AR: MBC 4 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63207.ts
+#EXTINF:-1,AR: MBC Action HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63208.ts
+#EXTINF:-1,AR: MBC Bollywood HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63209.ts
+#EXTINF:-1,AR: MBC Drama Plus HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73420.ts
+#EXTINF:-1,AR: MBC DRAMA+ HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63210.ts
+#EXTINF:-1,AR: MBC Maser
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101178.ts
+#EXTINF:-1,AR: MBC MASR 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102122.ts
+#EXTINF:-1,AR: MBC MASR 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73421.ts
+#EXTINF:-1,AR: MBC MASR HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63130.ts
+#EXTINF:-1,AR: MBC Max HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63212.ts
+#EXTINF:-1,AR: MBC pro 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/79298.ts
+#EXTINF:-1,AR: MBC Pro Sports 1 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89288.ts
+#EXTINF:-1,AR: MBC Pro Sports 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89289.ts
+#EXTINF:-1,AR: MBC Pro Sports 3 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89290.ts
+#EXTINF:-1,AR: MBC SPORTS 3
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63109.ts
+#EXTINF:-1,AR: MBC Sports Pro 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63213.ts
+#EXTINF:-1,AR: MBC Sports Pro 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63214.ts
+#EXTINF:-1,AR: MBC Sports Pro 4
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73344.ts
+#EXTINF:-1,AR: MBC VARIETY HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89852.ts
+#EXTINF:-1,AR: ROTANA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75239.ts
+#EXTINF:-1,AR: Rotana Aflam HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75238.ts
+#EXTINF:-1,AR: ROTANA CINEMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63234.ts
+#EXTINF:-1,AR: Rotana Cinema EGY
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75237.ts
+#EXTINF:-1,AR: Rotana Classic HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63231.ts
+#EXTINF:-1,AR: ROTANA CLIP
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75236.ts
+#EXTINF:-1,AR: Rotana Khaliiiah
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95766.ts
+#EXTINF:-1,AR: Rotana Khaliji
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95765.ts
+#EXTINF:-1,AR: Rotana Khalijia
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101171.ts
+#EXTINF:-1,AR: Rotana Khalijiah HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75235.ts
+#EXTINF:-1,AR: ROTANA KHALIJIYA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89345.ts
+#EXTINF:-1,AR: ROTANA KHALYJIA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63232.ts
+#EXTINF:-1,AR: ROTANA MASR YIA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63233.ts
+#EXTINF:-1,AR: ROTANA MASRIYA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75234.ts
+#EXTINF:-1,AR: ROTANA MASRYA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102137.ts
+#EXTINF:-1,AR: Rotana Massrya
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95767.ts
+#EXTINF:-1,AR: ROTANA MUSIC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89347.ts
+#EXTINF:-1,AR: AD Sports 1 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63133.ts
+#EXTINF:-1,AR: AD Sports 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63134.ts
+#EXTINF:-1,AR: AD Sports 3 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101447.ts
+#EXTINF:-1,AR: Aden TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75384.ts
+#EXTINF:-1,AR: Abu Dhabi Al Riyadiya 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75389.ts
+#EXTINF:-1,AR: Abu Dhabi Al Riyadiya 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75388.ts
+#EXTINF:-1,AR: ABU DHABI DRAMA HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75387.ts
+#EXTINF:-1,AR: Abu Dhabi TV HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63266.ts
+#EXTINF:-1,AR: CINEMA 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75164.ts
+#EXTINF:-1,AR: CINEMA 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75165.ts
+#EXTINF:-1,AR: CINEMA PRO
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75166.ts
+#EXTINF:-1,AR: CINEMA TUBE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75167.ts
+#EXTINF:-1,AR: 218 TV libye
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63124.ts
+#EXTINF:-1,AR: 2M
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63265.ts
+#EXTINF:-1,AR: 2M MAROC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89246.ts
+#EXTINF:-1,AR: 7BESHA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75391.ts
+#EXTINF:-1,AR: ABN Sat Aramaic Broadcasing Network Satellite
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100145.ts
+#EXTINF:-1,AR: AFAQ
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75383.ts
+#EXTINF:-1,AR: Aghani
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75382.ts
+#EXTINF:-1,AR: AGHAPY
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75381.ts
+#EXTINF:-1,AR: AHEL AL QURAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75380.ts
+#EXTINF:-1,AR: AJAL TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63136.ts
+#EXTINF:-1,AR: AK EKHBARIA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75379.ts
+#EXTINF:-1,AR: Al Aan tv
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75324.ts
+#EXTINF:-1,AR: Al Adalah TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75337.ts
+#EXTINF:-1,AR: Al Afasy TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75323.ts
+#EXTINF:-1,AR: Al Ahly TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75378.ts
+#EXTINF:-1,AR: Al Alam
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63137.ts
+#EXTINF:-1,AR: Al Amaken Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75336.ts
+#EXTINF:-1,AR: Al Anbar
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75335.ts
+#EXTINF:-1,AR: AL AQSA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75377.ts
+#EXTINF:-1,AR: Al Arabiya
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63140.ts
+#EXTINF:-1,AR: AL ARABY TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75375.ts
+#EXTINF:-1,AR: al asema
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75374.ts
+#EXTINF:-1,AR: AL ASSEMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75373.ts
+#EXTINF:-1,AR: AL BAIT BAITAK CINEMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75372.ts
+#EXTINF:-1,AR: AL BASIRA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75371.ts
+#EXTINF:-1,AR: Al Bawadi
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75334.ts
+#EXTINF:-1,AR: Al Ebaa TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75333.ts
+#EXTINF:-1,AR: Al Eiman TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75370.ts
+#EXTINF:-1,AR: AL EKHBARIYA AL SYRIA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75369.ts
+#EXTINF:-1,AR: AL EKHBARYA SY
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75368.ts
+#EXTINF:-1,AR: Al Falstiniah
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75366.ts
+#EXTINF:-1,AR: Al Ghad Al Mushreq
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75365.ts
+#EXTINF:-1,AR: Al Ghad TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100146.ts
+#EXTINF:-1,AR: AL HADATH
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75363.ts
+#EXTINF:-1,AR: AL HAQIQA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75317.ts
+#EXTINF:-1,AR: Al Hayat
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63146.ts
+#EXTINF:-1,AR: AL HAYAT 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75316.ts
+#EXTINF:-1,AR: Al Hayat Cinema
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95769.ts
+#EXTINF:-1,AR: Al Hayat Cristian
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63081.ts
+#EXTINF:-1,AR: Al Hayat Musalsalat
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95768.ts
+#EXTINF:-1,AR: Al hayat Muslsalat
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75315.ts
+#EXTINF:-1,AR: Al Hiwar ElTounsi
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63100.ts
+#EXTINF:-1,AR: AL HIWAR TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100147.ts
+#EXTINF:-1,AR: Al Horreya
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75359.ts
+#EXTINF:-1,AR: Al IMAN TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75313.ts
+#EXTINF:-1,AR: AL Jadeed 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75358.ts
+#EXTINF:-1,AR: Al Jadeed TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63152.ts
+#EXTINF:-1,AR: AL JAMEELA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75357.ts
+#EXTINF:-1,AR: AL Janoubia
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101192.ts
+#EXTINF:-1,AR: Al Jazeera
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63148.ts
+#EXTINF:-1,AR: AL JAZEERA DOC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101191.ts
+#EXTINF:-1,AR: AL JAZEERA DOCUMENTARY HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75355.ts
+#EXTINF:-1,AR: AL JAZEERA MUBASHER
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75353.ts
+#EXTINF:-1,AR: Al Jesr TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75352.ts
+#EXTINF:-1,AR: Al Kahera Wal Nas 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75351.ts
+#EXTINF:-1,AR: Al Kahera Wal Nas 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75350.ts
+#EXTINF:-1,AR: Al KOFIYA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75309.ts
+#EXTINF:-1,AR: Al Ma3ali TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63153.ts
+#EXTINF:-1,AR: Al Maaly
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75330.ts
+#EXTINF:-1,AR: AL MAJD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89255.ts
+#EXTINF:-1,AR: Al Manar
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75338.ts
+#EXTINF:-1,AR: Al Masirah TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75349.ts
+#EXTINF:-1,AR: AL MASRAWIA AFLAM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75308.ts
+#EXTINF:-1,AR: Al Mayadeen
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63154.ts
+#EXTINF:-1,AR: AL MEEDAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75348.ts
+#EXTINF:-1,AR: AL NADA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75347.ts
+#EXTINF:-1,AR: Al Nahar Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75329.ts
+#EXTINF:-1,AR: Al Nahar One
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75328.ts
+#EXTINF:-1,AR: Al Quds
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75346.ts
+#EXTINF:-1,AR: AL RAHMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75345.ts
+#EXTINF:-1,AR: AL RAI
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63155.ts
+#EXTINF:-1,AR: AL RAY
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89256.ts
+#EXTINF:-1,AR: Al Rayyan 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95757.ts
+#EXTINF:-1,AR: Al Rayyan Al Qadeem
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75344.ts
+#EXTINF:-1,AR: Al Rayyan HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75343.ts
+#EXTINF:-1,AR: AL RESALA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75342.ts
+#EXTINF:-1,AR: AL Riadia
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63159.ts
+#EXTINF:-1,AR: Al Sabah TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75327.ts
+#EXTINF:-1,AR: AL SERAJ
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75341.ts
+#EXTINF:-1,AR: Al Shahed TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75326.ts
+#EXTINF:-1,AR: Al SHAREYYAH
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75325.ts
+#EXTINF:-1,AR: AL SHARIKA 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89257.ts
+#EXTINF:-1,AR: AL SHARIKA 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89258.ts
+#EXTINF:-1,AR: AL SHARIKA 3
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89259.ts
+#EXTINF:-1,AR: AL SHARJAH
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75340.ts
+#EXTINF:-1,AR: al tunisia
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63156.ts
+#EXTINF:-1,AR: AL WAAD CHANNEL
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75339.ts
+#EXTINF:-1,AR: Al Yawm
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101187.ts
+#EXTINF:-1,AR: ALALAM NEWS
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75322.ts
+#EXTINF:-1,AR: Alaoula layoune
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63139.ts
+#EXTINF:-1,AR: ALARABIA NEWS
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102144.ts
+#EXTINF:-1,AR: Alaraby hadath
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63141.ts
+#EXTINF:-1,AR: ALASKANDRIA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75321.ts
+#EXTINF:-1,AR: Albait Baitak Cinem
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63142.ts
+#EXTINF:-1,AR: ALDELTA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75320.ts
+#EXTINF:-1,AR: ALEKHBARIYA NEWS
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63143.ts
+#EXTINF:-1,AR: ALEMARAT TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75367.ts
+#EXTINF:-1,AR: ALERTH-ALNBAWI
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75319.ts
+#EXTINF:-1,AR: ALFURSAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75318.ts
+#EXTINF:-1,AR: algeria 3
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63144.ts
+#EXTINF:-1,AR: Algerie 3
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101908.ts
+#EXTINF:-1,AR: Algerie 4
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63145.ts
+#EXTINF:-1,AR: Alhayat We Alnas
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75314.ts
+#EXTINF:-1,AR: Aljanoubiya
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63147.ts
+#EXTINF:-1,AR: ALJAZEERA INTERNATIONAL
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75312.ts
+#EXTINF:-1,AR: ALJAZEERA NEWS
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102145.ts
+#EXTINF:-1,AR: ALKAHERA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75311.ts
+#EXTINF:-1,AR: Alkarma
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75310.ts
+#EXTINF:-1,AR: ALKASS ONLINE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89261.ts
+#EXTINF:-1,AR: ALKASS SPORT 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102104.ts
+#EXTINF:-1,AR: ALKASS SPORT 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102105.ts
+#EXTINF:-1,AR: ALKASS SPORT 4
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102106.ts
+#EXTINF:-1,AR: ALKASS1 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/84508.ts
+#EXTINF:-1,AR: ALKASS2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/84509.ts
+#EXTINF:-1,AR: ALKASS3 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/84510.ts
+#EXTINF:-1,AR: ALKASS4 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/84511.ts
+#EXTINF:-1,AR: ALMAGHARIBIA MAROC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102107.ts
+#EXTINF:-1,AR: ALMAHER
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89262.ts
+#EXTINF:-1,AR: ALMASRIYAH
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89263.ts
+#EXTINF:-1,AR: ALMOSARE3
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75307.ts
+#EXTINF:-1,AR: ALORDON ALYOOM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75306.ts
+#EXTINF:-1,AR: ALOSTORA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75305.ts
+#EXTINF:-1,AR: ALOULA MARCO
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102109.ts
+#EXTINF:-1,AR: Alpha Alyum
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75304.ts
+#EXTINF:-1,AR: Alpha cinema 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75303.ts
+#EXTINF:-1,AR: Alpha Musalsal HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75302.ts
+#EXTINF:-1,AR: Alqanat 9
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75300.ts
+#EXTINF:-1,AR: ALQASSIM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75299.ts
+#EXTINF:-1,AR: AlRafideen 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75298.ts
+#EXTINF:-1,AR: ALRAYAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89264.ts
+#EXTINF:-1,AR: ALRESALAH
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63150.ts
+#EXTINF:-1,AR: ALSA3EED
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75297.ts
+#EXTINF:-1,AR: AlSaeedah
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75296.ts
+#EXTINF:-1,AR: ALSHARGIYA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63151.ts
+#EXTINF:-1,AR: Altaghier
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75295.ts
+#EXTINF:-1,AR: ALTHAQAFIAH 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75294.ts
+#EXTINF:-1,AR: Alwakaa
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75293.ts
+#EXTINF:-1,AR: Alwalaa TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75292.ts
+#EXTINF:-1,AR: Alwesam TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75291.ts
+#EXTINF:-1,AR: Alyaum TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100148.ts
+#EXTINF:-1,AR: ANN NEWS
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89265.ts
+#EXTINF:-1,AR: ANN SYRIA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75286.ts
+#EXTINF:-1,AR: ANNAJAH NBC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75287.ts
+#EXTINF:-1,AR: Aoula Maroc HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63132.ts
+#EXTINF:-1,AR: Arabica TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100149.ts
+#EXTINF:-1,AR: ARIRANG
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75284.ts
+#EXTINF:-1,AR: Armenia 1 TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75283.ts
+#EXTINF:-1,AR: Armenia TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75282.ts
+#EXTINF:-1,AR: ARRABIA TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63158.ts
+#EXTINF:-1,AR: ARRBIA MAROC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102110.ts
+#EXTINF:-1,AR: Arriyadia
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63111.ts
+#EXTINF:-1,AR: art aflam 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63164.ts
+#EXTINF:-1,AR: art aflam 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63160.ts
+#EXTINF:-1,AR: ART Cinema
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63161.ts
+#EXTINF:-1,AR: ART CINEMA 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89266.ts
+#EXTINF:-1,AR: Art Hekayat
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101185.ts
+#EXTINF:-1,AR: ART Hekayat 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63163.ts
+#EXTINF:-1,AR: ART HEKAYAT 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63162.ts
+#EXTINF:-1,AR: ART HIKAYAT 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75280.ts
+#EXTINF:-1,AR: ART HIKAYAT 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75279.ts
+#EXTINF:-1,AR: ART HYKAYAT 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102111.ts
+#EXTINF:-1,AR: attassia tv
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63166.ts
+#EXTINF:-1,AR: Awdeh
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75278.ts
+#EXTINF:-1,AR: Awhad
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75277.ts
+#EXTINF:-1,AR: AZHARI
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75276.ts
+#EXTINF:-1,AR: B4U Aflam
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75149.ts
+#EXTINF:-1,AR: B4U Plus
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75150.ts
+#EXTINF:-1,AR: Bahia TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75151.ts
+#EXTINF:-1,AR: BAHRAIN INTERNATIONAL HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75153.ts
+#EXTINF:-1,AR: BAHRAIN TV HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63167.ts
+#EXTINF:-1,AR: Baraeem
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101183.ts
+#EXTINF:-1,AR: BAREM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63168.ts
+#EXTINF:-1,AR: BBC ARABIA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102112.ts
+#EXTINF:-1,AR: BBC ARABIC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75154.ts
+#EXTINF:-1,AR: BELAD HARAMEN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75155.ts
+#EXTINF:-1,AR: BELQEES
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75156.ts
+#EXTINF:-1,AR: Beur TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101730.ts
+#EXTINF:-1,AR: BIN OTHAIMEEN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75157.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95753.ts
+#EXTINF:-1,AR: Cairo Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75158.ts
+#EXTINF:-1,AR: Canal algerie
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63170.ts
+#EXTINF:-1,AR: CARTOON NETWORK
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89904.ts
+#EXTINF:-1,AR: Cartoon Network Arabic
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63171.ts
+#EXTINF:-1,AR: CBC Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63173.ts
+#EXTINF:-1,AR: CBC EXTRA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75159.ts
+#EXTINF:-1,AR: CBC HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63172.ts
+#EXTINF:-1,AR: CBC Sofra
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63174.ts
+#EXTINF:-1,AR: Cima Alibaba
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75160.ts
+#EXTINF:-1,AR: CIMA TUBE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75161.ts
+#EXTINF:-1,AR: Cima TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75162.ts
+#EXTINF:-1,AR: CNA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75168.ts
+#EXTINF:-1,AR: CNBC ARABIYA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75169.ts
+#EXTINF:-1,AR: CNL
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75170.ts
+#EXTINF:-1,AR: CTV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63080.ts
+#EXTINF:-1,AR: Discovery Science FHD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63131.ts
+#EXTINF:-1,AR: Disney Channel HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89272.ts
+#EXTINF:-1,AR: dmc DRAMA HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73355.ts
+#EXTINF:-1,AR: DMC HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73354.ts
+#EXTINF:-1,AR: DMC Sports HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73334.ts
+#EXTINF:-1,AR: DREAM 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89273.ts
+#EXTINF:-1,AR: Dream 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73356.ts
+#EXTINF:-1,AR: DW
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95455.ts
+#EXTINF:-1,AR: DW TV ARABIA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73358.ts
+#EXTINF:-1,AR: DZAIR TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89799.ts
+#EXTINF:-1,AR: DzairNews
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63182.ts
+#EXTINF:-1,AR: ECHOROUK TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63183.ts
+#EXTINF:-1,AR: ECHOUROUKBENNA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63184.ts
+#EXTINF:-1,AR: El Djazairia
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63186.ts
+#EXTINF:-1,AR: El Heddaf TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63185.ts
+#EXTINF:-1,AR: EL HOROUK TV NEWS
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102116.ts
+#EXTINF:-1,AR: ElKeraza
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73361.ts
+#EXTINF:-1,AR: ELMOLED TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73362.ts
+#EXTINF:-1,AR: Elsharq
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73360.ts
+#EXTINF:-1,AR: Ennahar TV alg
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63187.ts
+#EXTINF:-1,AR: ENTV (Algerie)
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101907.ts
+#EXTINF:-1,AR: ESC MASER
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73363.ts
+#EXTINF:-1,AR: Ettounsia TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63188.ts
+#EXTINF:-1,AR: EURO NEWS ARABIC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73364.ts
+#EXTINF:-1,AR: Family Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73365.ts
+#EXTINF:-1,AR: FIRST TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101182.ts
+#EXTINF:-1,AR: Fox Action Movies HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63112.ts
+#EXTINF:-1,AR: FRANCE 24 ARABIA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89276.ts
+#EXTINF:-1,AR: FRANCE 24 ARABIC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73366.ts
+#EXTINF:-1,AR: FRANCE 24 EN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73367.ts
+#EXTINF:-1,AR: FRANCE 24 FR
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63189.ts
+#EXTINF:-1,AR: Fujairah TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73369.ts
+#EXTINF:-1,AR: FUNoon
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73370.ts
+#EXTINF:-1,AR: FUTURE TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63190.ts
+#EXTINF:-1,AR: Hala TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73372.ts
+#EXTINF:-1,AR: Halab Today
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73373.ts
+#EXTINF:-1,AR: hanibal
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63191.ts
+#EXTINF:-1,AR: Hannibal TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63101.ts
+#EXTINF:-1,AR: HAREEM ELSULTAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73374.ts
+#EXTINF:-1,AR: Hawas TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73375.ts
+#EXTINF:-1,AR: HEBRON SAT TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73376.ts
+#EXTINF:-1,AR: Heya TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73377.ts
+#EXTINF:-1,AR: iFilm Arabic
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75274.ts
+#EXTINF:-1,AR: IMAGINE MOVIES
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73379.ts
+#EXTINF:-1,AR: IQRA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63192.ts
+#EXTINF:-1,AR: IRAQIA SPORT
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73337.ts
+#EXTINF:-1,AR: IUC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63079.ts
+#EXTINF:-1,AR: JAWNA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73381.ts
+#EXTINF:-1,AR: Jeem
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/94438.ts
+#EXTINF:-1,AR: JORDAN NOW
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73382.ts
+#EXTINF:-1,AR: Jordan Sports
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73338.ts
+#EXTINF:-1,AR: JORDAN TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73383.ts
+#EXTINF:-1,AR: JSC DOCUMANTARY
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102117.ts
+#EXTINF:-1,AR: JSC LIVE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73384.ts
+#EXTINF:-1,AR: JSC NEWS
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102118.ts
+#EXTINF:-1,AR: KAIFA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73385.ts
+#EXTINF:-1,AR: Karameesh
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63193.ts
+#EXTINF:-1,AR: kbc algeria
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63194.ts
+#EXTINF:-1,AR: Kentron
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73387.ts
+#EXTINF:-1,AR: KTO
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73388.ts
+#EXTINF:-1,AR: KTV Al Arabi
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73389.ts
+#EXTINF:-1,AR: KTV CH1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73390.ts
+#EXTINF:-1,AR: KTV CH2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73391.ts
+#EXTINF:-1,AR: KTV Ethraa
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73392.ts
+#EXTINF:-1,AR: KTV SPORT HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73339.ts
+#EXTINF:-1,AR: Ktv sport Plus
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73340.ts
+#EXTINF:-1,AR: Kuwait Sport
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95761.ts
+#EXTINF:-1,AR: Kuwait Sport Plus
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95762.ts
+#EXTINF:-1,AR: KUWAIT TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63196.ts
+#EXTINF:-1,AR: KUWAIT TV 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63195.ts
+#EXTINF:-1,AR: LBC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89279.ts
+#EXTINF:-1,AR: LBC Europe
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73393.ts
+#EXTINF:-1,AR: LBC SAT
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63197.ts
+#EXTINF:-1,AR: LDC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73394.ts
+#EXTINF:-1,AR: LDC Lebanon
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63198.ts
+#EXTINF:-1,AR: LDC MOVIES
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89280.ts
+#EXTINF:-1,AR: LEBANON
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63199.ts
+#EXTINF:-1,AR: Libya 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63200.ts
+#EXTINF:-1,AR: LIBYA 218
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73395.ts
+#EXTINF:-1,AR: Libya 24
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73396.ts
+#EXTINF:-1,AR: LIBYA ALHADATH
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73397.ts
+#EXTINF:-1,AR: Libya Alhrar
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75273.ts
+#EXTINF:-1,AR: LIBYA ALRASMEYA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73399.ts
+#EXTINF:-1,AR: LIBYA ONE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63201.ts
+#EXTINF:-1,AR: Libya Panorama TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73402.ts
+#EXTINF:-1,AR: Libya Today TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73403.ts
+#EXTINF:-1,AR: LIBYAS CHANNEL
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73404.ts
+#EXTINF:-1,AR: Logos TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73406.ts
+#EXTINF:-1,AR: LPC HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75272.ts
+#EXTINF:-1,AR: LTC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73407.ts
+#EXTINF:-1,AR: LuaLua TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73409.ts
+#EXTINF:-1,AR: M CLASSIC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73410.ts
+#EXTINF:-1,AR: M Tunisia
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89281.ts
+#EXTINF:-1,AR: MAJAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73412.ts
+#EXTINF:-1,AR: MAJD KIDS
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63202.ts
+#EXTINF:-1,AR: Makkah TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63402.ts
+#EXTINF:-1,AR: MAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63203.ts
+#EXTINF:-1,AR: Manaseer
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73413.ts
+#EXTINF:-1,AR: Manhaj
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73414.ts
+#EXTINF:-1,AR: Mariam TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73415.ts
+#EXTINF:-1,AR: MASDAR
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75271.ts
+#EXTINF:-1,AR: Maspero Zaman
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73417.ts
+#EXTINF:-1,AR: MAZAKIZH
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73418.ts
+#EXTINF:-1,AR: MBA Masr 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95742.ts
+#EXTINF:-1,AR: Me Sat
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63078.ts
+#EXTINF:-1,AR: MECCA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73422.ts
+#EXTINF:-1,AR: Medi 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63216.ts
+#EXTINF:-1,AR: MEDINA LIVE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100582.ts
+#EXTINF:-1,AR: Mehwar TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73423.ts
+#EXTINF:-1,AR: MEKAMELEEN TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73424.ts
+#EXTINF:-1,AR: MEKKA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63217.ts
+#EXTINF:-1,AR: MELODY CLASSIC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73425.ts
+#EXTINF:-1,AR: MENHAG ALNBOWA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73426.ts
+#EXTINF:-1,AR: MIRACLE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73427.ts
+#EXTINF:-1,AR: MISR AL ZERA3EYA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73428.ts
+#EXTINF:-1,AR: Misr ELBald
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73429.ts
+#EXTINF:-1,AR: MOGA Cinema
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73430.ts
+#EXTINF:-1,AR: MOGA COMEDY TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63218.ts
+#EXTINF:-1,AR: MOSALSALAT TUBE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73432.ts
+#EXTINF:-1,AR: MOVIES COMEDY HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89293.ts
+#EXTINF:-1,AR: MTA 3 Al Arabiyah
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73433.ts
+#EXTINF:-1,AR: MTA Muslim TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73434.ts
+#EXTINF:-1,AR: MTV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102125.ts
+#EXTINF:-1,AR: mtv LEBANON
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63219.ts
+#EXTINF:-1,AR: MUSAWA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73436.ts
+#EXTINF:-1,AR: Music Alarrab
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73437.ts
+#EXTINF:-1,AR: Music alremas
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73438.ts
+#EXTINF:-1,AR: NABA TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73439.ts
+#EXTINF:-1,AR: NABAA TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63220.ts
+#EXTINF:-1,AR: NAHAR DRAMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63221.ts
+#EXTINF:-1,AR: NAT GEO HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63222.ts
+#EXTINF:-1,AR: NATIONAL 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101173.ts
+#EXTINF:-1,AR: NATIONAL 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101172.ts
+#EXTINF:-1,AR: NBN TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73441.ts
+#EXTINF:-1,AR: Neelain Sports HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/79299.ts
+#EXTINF:-1,AR: NESMA TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89296.ts
+#EXTINF:-1,AR: Nessma TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63102.ts
+#EXTINF:-1,AR: Nile Cinema
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73442.ts
+#EXTINF:-1,AR: Nile Comedy
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73443.ts
+#EXTINF:-1,AR: Nile Culture
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73444.ts
+#EXTINF:-1,AR: NILE DRAMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63224.ts
+#EXTINF:-1,AR: NILE LIFE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89297.ts
+#EXTINF:-1,AR: Nile News
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73446.ts
+#EXTINF:-1,AR: Nile Sport
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73347.ts
+#EXTINF:-1,AR: NILE TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63225.ts
+#EXTINF:-1,AR: NileFamily
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73445.ts
+#EXTINF:-1,AR: NOON tv
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63226.ts
+#EXTINF:-1,AR: NOOR DUBAI
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73447.ts
+#EXTINF:-1,AR: NOOR JORDAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73448.ts
+#EXTINF:-1,AR: NOUR
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/73449.ts
+#EXTINF:-1,AR: NOUR AL SHAM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75268.ts
+#EXTINF:-1,AR: Nour Al Sharq
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75267.ts
+#EXTINF:-1,AR: Nour Koddass
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75266.ts
+#EXTINF:-1,AR: NOURSAT
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75265.ts
+#EXTINF:-1,AR: NOURSAT AL CHABAB
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75264.ts
+#EXTINF:-1,AR: NRT arabic
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100150.ts
+#EXTINF:-1,AR: OMAN TV Culture HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75261.ts
+#EXTINF:-1,AR: OMAN TV General HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75260.ts
+#EXTINF:-1,AR: OMAN TV Live HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75259.ts
+#EXTINF:-1,AR: ON Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75258.ts
+#EXTINF:-1,AR: ON E
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75257.ts
+#EXTINF:-1,AR: ON SPORT 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75256.ts
+#EXTINF:-1,AR: ONTV LIVE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100151.ts
+#EXTINF:-1,AR: ORIENT
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75254.ts
+#EXTINF:-1,AR: OTV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75253.ts
+#EXTINF:-1,AR: Palestine Live
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100152.ts
+#EXTINF:-1,AR: Palestine News
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75251.ts
+#EXTINF:-1,AR: Palestine Sport
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/79300.ts
+#EXTINF:-1,AR: PALESTINE TODAY
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75250.ts
+#EXTINF:-1,AR: PALESTINIAN TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75249.ts
+#EXTINF:-1,AR: Panorama Comedy
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63227.ts
+#EXTINF:-1,AR: Panorama Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63228.ts
+#EXTINF:-1,AR: Panorama Drama 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63229.ts
+#EXTINF:-1,AR: PANORAMA DRAMA1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75248.ts
+#EXTINF:-1,AR: Panorama Film
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63230.ts
+#EXTINF:-1,AR: PANORAMA FOOD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75247.ts
+#EXTINF:-1,AR: PANORAMA YOM TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75246.ts
+#EXTINF:-1,AR: PEACE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75245.ts
+#EXTINF:-1,AR: PROGRAMME NATIONAL
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102135.ts
+#EXTINF:-1,AR: PUBLI TOOLS TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75244.ts
+#EXTINF:-1,AR: QATAR TODAY
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75243.ts
+#EXTINF:-1,AR: QATAR TV HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75242.ts
+#EXTINF:-1,AR: QOU.EDU
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75241.ts
+#EXTINF:-1,AR: Quest TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/75240.ts
+#EXTINF:-1,AR: QURAN TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102136.ts
+#EXTINF:-1,AR: ROTONA CLIP
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63235.ts
+#EXTINF:-1,AR: ROYA HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78585.ts
+#EXTINF:-1,AR: RT ARAB
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78586.ts
+#EXTINF:-1,AR: RT Arabic HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63236.ts
+#EXTINF:-1,AR: RT-TODAY
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78587.ts
+#EXTINF:-1,AR: Rushd TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100154.ts
+#EXTINF:-1,AR: SADA AL BALAD DRAMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89350.ts
+#EXTINF:-1,AR: Sada El Balad plus 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78590.ts
+#EXTINF:-1,AR: SADA EL BALAD+
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78589.ts
+#EXTINF:-1,AR: SADA ELBALAAD DRAMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78591.ts
+#EXTINF:-1,AR: Sada Elbalad 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63237.ts
+#EXTINF:-1,AR: Sada Elbalad Drama
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63238.ts
+#EXTINF:-1,AR: SAFA TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78592.ts
+#EXTINF:-1,AR: Sama Dubai
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63239.ts
+#EXTINF:-1,AR: Sama Syria
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101189.ts
+#EXTINF:-1,AR: SAMA TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78593.ts
+#EXTINF:-1,AR: Samira TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63240.ts
+#EXTINF:-1,AR: Sanad TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/100155.ts
+#EXTINF:-1,AR: SAT 7 ARABIC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78595.ts
+#EXTINF:-1,AR: SAT7
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89351.ts
+#EXTINF:-1,AR: Saudi 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63242.ts
+#EXTINF:-1,AR: SAUDI 2 HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63243.ts
+#EXTINF:-1,AR: SAUDI CH QURAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78596.ts
+#EXTINF:-1,AR: SAUDI CH SUNNAH
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78597.ts
+#EXTINF:-1,AR: SAUDI QURAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89913.ts
+#EXTINF:-1,AR: Saudi Sports
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63241.ts
+#EXTINF:-1,AR: SAUDI24
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78600.ts
+#EXTINF:-1,AR: SCOPE
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78601.ts
+#EXTINF:-1,AR: SELAA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78605.ts
+#EXTINF:-1,AR: SEMSEM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63244.ts
+#EXTINF:-1,AR: SHA3BEYAT
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78606.ts
+#EXTINF:-1,AR: SHANPOO AFLAM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78607.ts
+#EXTINF:-1,AR: Sheba TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78609.ts
+#EXTINF:-1,AR: spacetoon
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63246.ts
+#EXTINF:-1,AR: STAR CINEMA 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78610.ts
+#EXTINF:-1,AR: STAR CINEMA 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78611.ts
+#EXTINF:-1,AR: SUHAIL TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78612.ts
+#EXTINF:-1,AR: SUNNA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63247.ts
+#EXTINF:-1,AR: SUROYO TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/77528.ts
+#EXTINF:-1,AR: Suryoyo Sat
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/77527.ts
+#EXTINF:-1,AR: Syria Aloula
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/95764.ts
+#EXTINF:-1,AR: SYRIA AOULA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63249.ts
+#EXTINF:-1,AR: SYRIA DRAMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63250.ts
+#EXTINF:-1,AR: SYRIA NEWS
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63248.ts
+#EXTINF:-1,AR: Syria Satellite
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/77525.ts
+#EXTINF:-1,AR: Syria TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63251.ts
+#EXTINF:-1,AR: TACTAC MAROC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78614.ts
+#EXTINF:-1,AR: Tal2a Hendy
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78615.ts
+#EXTINF:-1,AR: TAMAZIGHT HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63252.ts
+#EXTINF:-1,AR: TAMAZIGHT MAROCO
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102139.ts
+#EXTINF:-1,AR: Tanasuh Libye
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63253.ts
+#EXTINF:-1,AR: TATT7
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78616.ts
+#EXTINF:-1,AR: TEBA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78617.ts
+#EXTINF:-1,AR: Tele Liban
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78618.ts
+#EXTINF:-1,AR: TELVZATV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101169.ts
+#EXTINF:-1,AR: Ten
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63254.ts
+#EXTINF:-1,AR: TEN/OSN CRICKET IN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/86787.ts
+#EXTINF:-1,AR: The Savior
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78619.ts
+#EXTINF:-1,AR: TIME CINEMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63255.ts
+#EXTINF:-1,AR: Time Comedy
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63256.ts
+#EXTINF:-1,AR: TNN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102140.ts
+#EXTINF:-1,AR: TNN Tunisia
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63257.ts
+#EXTINF:-1,AR: TOKTOK AFLAM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78620.ts
+#EXTINF:-1,AR: TOKTOK CIMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78621.ts
+#EXTINF:-1,AR: Tounesna
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63103.ts
+#EXTINF:-1,AR: TOYOR AL JANAH
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63258.ts
+#EXTINF:-1,AR: TOYOR ALJENNA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/102141.ts
+#EXTINF:-1,AR: Toyor Jannah
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101168.ts
+#EXTINF:-1,AR: TRT ARABIA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/64558.ts
+#EXTINF:-1,AR: Tunisia First TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63259.ts
+#EXTINF:-1,AR: Tunisia Nat 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63261.ts
+#EXTINF:-1,AR: TUNISIA NATIONAL 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89845.ts
+#EXTINF:-1,AR: TUNISIA NATIONAL 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63260.ts
+#EXTINF:-1,AR: TUNISIE NAT 1
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89356.ts
+#EXTINF:-1,AR: TUNISIE NAT 2
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89357.ts
+#EXTINF:-1,AR: TUNISNA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89839.ts
+#EXTINF:-1,AR: UBER AFLAM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78625.ts
+#EXTINF:-1,AR: UBER CIMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78626.ts
+#EXTINF:-1,AR: UBER CLASSIC
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78627.ts
+#EXTINF:-1,AR: UBER DRAMA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78628.ts
+#EXTINF:-1,AR: UBER FILM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78629.ts
+#EXTINF:-1,AR: Varzish Sport HD
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/79302.ts
+#EXTINF:-1,AR: WANASAH
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78630.ts
+#EXTINF:-1,AR: WATAN TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78631.ts
+#EXTINF:-1,AR: WESAL TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63262.ts
+#EXTINF:-1,AR: YAS Sports
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/79303.ts
+#EXTINF:-1,AR: YEMEN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78632.ts
+#EXTINF:-1,AR: Yemen Education TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78633.ts
+#EXTINF:-1,AR: YEMEN SHAHAB
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78634.ts
+#EXTINF:-1,AR: YEMEN TODAY TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78635.ts
+#EXTINF:-1,AR: ZAD TV
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89359.ts
+#EXTINF:-1,AR: zaitouna
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63263.ts
+#EXTINF:-1,AR: ZAYTOONA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/89360.ts
+#EXTINF:-1,AR: ZEE AFLAM
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63264.ts
+#EXTINF:-1,AR: ZEE ALWAN
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/63268.ts
+#EXTINF:-1,AR: ZitounaHedaya
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/101167.ts
+#EXTINF:-1,AR: ZWINA BALADNA
+http://landiptv.live:8080/live/Wc5Hq0X4tX/XXRwCTNbpt/78637.ts
