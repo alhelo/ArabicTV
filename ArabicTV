@@ -4,9 +4,8 @@ https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_229_av-p.m3u8
 https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_184_av-p.m3u8
 
 #http://www.elahmad.com/tv/qurantv.php 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/al_quran.png"group-title="eigene Gruppe", Quran Kareem القران الكريم
-\https://www.youtube.com/watch?v=v1ATPj2T3f4
-http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/al_quran.png", Quran Kareem القران الكريم
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
 
 #http://www.elahmad.com/tv/sunnatv.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg", Sunnah السنة النبوية
