@@ -49,10 +49,6 @@ http://199.167.151.237:1935/live/sp15_25.stream/chunklist_w2121967704.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/alresalah.jpg", Alresalah TV الرسالة
 http://199.167.151.237:1935/live/sp15_28.stream/chunklist_w966803683.m3u8
 
-#http://www.elahmad.com/tv/alnas-tv-live.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Alnas.png", Alnas الناس
-
-
 #4Shabab http://www.elahmad.com/tv/4shbab.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/shabab.jpg", 4Shabab
 
