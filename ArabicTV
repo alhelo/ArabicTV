@@ -42,7 +42,7 @@ http://selevision9881-i.akamaihd.net/hls/live/219191/98818/1.m3u8
 
 
 #http://www.elahmad.com/tv/iqraatv.php 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/iqraa.jpg", Iqraa اقرأ
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/iqraa.jpg", Iqraa اقرأ
 http://199.167.151.237:1935/live/sp15_25.stream/chunklist_w2121967704.m3u8
 
 #http://www.elahmad.com/tv/alresalah-tv-live.php
