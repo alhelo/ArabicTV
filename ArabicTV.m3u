@@ -95,24 +95,34 @@ http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b750000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Rotana.png",5 Rotana Live TV روتانا
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 
+#http://www.elahmad.com/tv/rotana_live_tv.php
 #Rotana Afalam
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/RotanaAflam.jpg", Rotana Aflam
-http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+http://185.27.116.54:8081/livestream/rotanakhalejeh/chunks.m3u8
+
+#Rotana Afalam
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/RotanaKlassik.jpg", Rotana كلاسيك
+http://185.27.116.54:8081/livestream/rotanakhalejeh/chunks.m3u8
+
+
+#Rotana Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/RotanaDrama.jpg", Rotana Drama
+http://185.27.116.54:1935/livestream/rotanamasr/chunklist_w1209922168.m3u8?v=1485145778
 
 #MBC Sendungen#
 #http://www.elahmad.com/tv/mbc.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Mbc1.png", MBC 1
-http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8
+http://149.202.8.181:8000/live/24-mbc1/24-mbc1/23.m3u8?v=1485145778
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC2.jpg", MBC 2
 #http://estand.casacam.net/LQ-AR-MBC2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBC4.jpg", MBC 4
 http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCMax.png", MBC Max
-http://sstvb.vdmscdn.com/LQ-AR-MBC4/tracks-v1a1/index.m3u8
+http://149.202.8.181:8000/live/24-mbc1/24-mbc1/27.m3u8?v=1485145778
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCdrama.png", MBC Drama
-http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8
+http://149.202.8.181:8000/live/24-mbc1/24-mbc1/27.m3u8?v=1485145778
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/MBCAction.png", MBC Action
-http://estand.casacam.net/LQ-AR-MBC-Action/tracks-v1a1/index.m3u8
+http://149.202.8.181:8000/live/24-mbc1/24-mbc1/30.m3u8?v=1485145778
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AljazeeraDoku.png",1 Aljazeera Dokumentation الجزيرة الوثائقية
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
