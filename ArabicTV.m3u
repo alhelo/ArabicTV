@@ -3,7 +3,7 @@ https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_229_av-p.m3u8
 
 #http://www.elahmad.com/tv/qurantv.php 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/al_quran.png"group-title="eigene Gruppe", Quran Kareem القران الكريم
-http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
 
 #http://www.elahmad.com/tv/sunnatv.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg", Sunnah السنة النبوية
@@ -17,11 +17,11 @@ http://de.live.net.sa:1935/live/alj/chunklist_w801158021.m3u8
 
 #http://www.elahmad.com/tv/alafasytv.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Afasy.jpg", العفاسي Al-Afasy
-http://www.elahmad.com/rainbow1.ani
+http://live.mp3quran.net:9982/;stream.nsv
 
 #http://www.elahmad.com/tv/toyoraljanah.php
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/toyor.jpg", Toyor Aljannah
-https://www.youtube.com/watch?v=-7CSlsNEBro
+http://38.99.146.69:7777/ToyorAlJanah_Med/ToyorAlJanah_Med.m3u8?user=tyty&session=d3dbd8e4db1cb99545f649f5da27e67b2a9edb81237bbe795f8d6157dafd9289a299017ce29bf1aa&hlsid=HTTP_ID_895466&group_id=-1&starttime=20180718T150709.814453
 
 #http://www.elahmad.com/tv/aljazeera_children.php
 #http://www.elahmad.com/tv/baraem.php
@@ -41,15 +41,16 @@ http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/iqraa.jpg", Iqraa اقرأ
 http://185.27.116.54:8081/livestream/iqraa/chunks.m3u8
 
+#http://www.elahmad.com/tv/alresalah-tv-live.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/alresalah.jpg", Alresalah TV الرسالة 
-http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
+http://199.167.151.237:1935/live/sp15_28.stream/chunklist_w433953961.m3u8
 
 #http://www.elahmad.com/tv/alnas-tv-live.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Alnas.png", Alnas الناس
 #http://estand.casacam.net/LQ-AR-AlNas/tracks-v1a1/index.m3u8
 
 #4Shabab http://www.elahmad.com/tv/4shbab.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/shabab.jpg", 4Shabab
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/shabab.jpg", 4Shabab
 
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/mkameleen.jpg", مكمليين Mekameleen 
@@ -57,7 +58,8 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b800000.m3u8
 
 #http://www.elahmad.com/tv/assadissa-maroc.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/assadissa.jpg", السادسة المغربية
-http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/assadissa-video=438800-audio_AACL_qad_130400_110=130400.m3u8
+http://38.99.146.69:7777/Assadissa_Med/Assadissa_Med.m3u8?user=tyty&session=3ca40a3db29dd8ee781f38607afdf546bc4c26fcbde8067e26b9f5ea9561cfc1a299017ce29bf1aa&hlsid=HTTP_ID_896158&group_id=-1&starttime=20180718T150709.806640
+
 
 #http://www.elahmad.com/tv/arryadia_maroc.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/arriadia.jpg", الرياضية المغربية
@@ -65,7 +67,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-video=438800
 
 #http://www.elahmad.com/tv/abu-dhabi-tvlive.php
 \EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AbuDhabi.png", Abu Dhabi
-http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?v=1372962335
 
 #Dubai
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Dubai.png", Dubai دبي
