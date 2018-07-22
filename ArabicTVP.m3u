@@ -39,7 +39,7 @@ http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147
 
 #http://www.elahmad.com/tv/iqraatv.php 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/iqraa.jpg", Iqraa اقرأ
-http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b550000_t64NTc2cA==.m3u8
+http://185.27.116.54:8081/livestream/iqraa/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/alresalah.jpg", Alresalah TV الرسالة 
 http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
