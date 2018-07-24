@@ -1,3 +1,7 @@
+#http://www.elahmad.com/tv/iqraatv.php 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/iqraa.jpg", Iqraa اقرأ
+http://185.27.116.54:8081/livestream/iqraa/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/ZDF.png"group-title="eigene Gruppe", ZDF
 https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_229_av-p.m3u8
 
@@ -9,7 +13,7 @@ http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Al-Sunna.jpg", Sunnah السنة النبوية
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Arify.jpg", العريفي
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Arify.jpg", الجميلة
 http://de.live.net.sa:1935/live/alj/chunklist_w801158021.m3u8
 
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Da3wa.jpg", دعوة
@@ -37,9 +41,6 @@ http://selevision9881-i.akamaihd.net/hls/live/219191/98818/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/aljazeera.png", Aljazeera الجزيرة
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 
-#http://www.elahmad.com/tv/iqraatv.php 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/iqraa.jpg", Iqraa اقرأ
-http://185.27.116.54:8081/livestream/iqraa/chunks.m3u8
 
 #http://www.elahmad.com/tv/alresalah-tv-live.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/alresalah.jpg", Alresalah TV الرسالة 
