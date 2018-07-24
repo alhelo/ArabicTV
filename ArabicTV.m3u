@@ -67,12 +67,13 @@ http://38.99.146.69:7777/Assadissa_Med/Assadissa_Med.m3u8?user=tyty&session=3ca4
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-video=438800-audio_AACL_qad_130400_110=130400.m3u8
 
 #http://www.elahmad.com/tv/abu-dhabi-tvlive.php
-\EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AbuDhabi.png", Abu Dhabi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/AbuDhabi.png", Abu Dhabi
 http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?v=1372962335
 
 #Dubai
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Dubai.png", Dubai دبي
 http://dmifr.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b250000.m3u8
+
 #sama Dubai 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/SamaDubai.jpg", سما دبي
 http://selevision9878-i.akamaihd.net/hls/live/219135/98787/1.m3u8
