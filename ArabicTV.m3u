@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/iqraa.jpg", Iqraa اقرأ
 http://185.27.116.54:8081/livestream/iqraa/chunks.m3u8
 
+#https://www.alaraby.co.uk/portal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/alaraby.jpg", العربي
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/ZDF.png"group-title="eigene Gruppe", ZDF
 https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_229_av-p.m3u8
 
