@@ -54,11 +54,7 @@ http://199.167.151.237:1935/live/sp15_28.stream/chunklist_w433953961.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Alnas.png", Alnas الناس
 #http://estand.casacam.net/LQ-AR-AlNas/tracks-v1a1/index.m3u8
 
-#4Shabab http://www.elahmad.com/tv/4shbab.php
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/shabab.jpg", 4Shabab
-
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/mkameleen.jpg", مكمليين Mekameleen 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/mkameleen.jpg", مكمليين Mekameleen 
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b800000.m3u8
 
 #http://www.elahmad.com/tv/assadissa-maroc.php
@@ -76,44 +72,43 @@ http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?v=1372962335
 
 #Dubai
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Dubai.png", Dubai دبي
-http://dmifr.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b250000.m3u8
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
 
 #sama Dubai 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/SamaDubai.jpg", سما دبي
-http://selevision9878-i.akamaihd.net/hls/live/219135/98787/1.m3u8
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
 
-#Dubai Daram Dubaidrama.jpg
+#Dubai Daram
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Dubaidrama.jpg", دبي دراما
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
 
 #Dubai Zaman dubaizaman.png
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/dubaizaman.png", دبي زمان
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b120000.m3u8
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
 
-#Nour Dubai NoorDubai.jpg
+#Nour Dubai Noor
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/NoorDubai.jpg", نور دبي
-http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_b1200000.m3u8
+http://dmithrvll.cdn.mangomolo.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
 
 #Dubai One 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/DubaiOne.jpg", Dubai One
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b750000.m3u8
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Rotana.png",5 Rotana Live TV روتانا
-http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/Rotana.png",Rotana Live TV روتانا
+https://svs.itworkscdn.net/rotanakhalijialive/rkhalijia_360p/chunklist.m3u8?nimblesessionid=179265779&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDE4IDEwOjU2OjIyIEFNJmhhc2hfdmFsdWU9MTF3TUJxV08wWEZ0aXEwb1pmL2R2QT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzU=
 
 #http://www.elahmad.com/tv/rotana_live_tv.php
 #Rotana Afalam
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/RotanaAflam.jpg", Rotana Aflam
-http://185.27.116.54:8081/livestream/rotanakhalejeh/chunks.m3u8
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/RotanaAflam.jpg", Rotana Aflam
+#http://185.27.116.54:8081/livestream/rotanakhalejeh/chunks.m3u8
 
 #Rotana Afalam
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/RotanaKlassik.jpg", Rotana كلاسيك
 http://185.27.116.54:8081/livestream/rotanakhalejeh/chunks.m3u8
 
-
 #Rotana Drama
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/RotanaDrama.jpg", Rotana Drama
-http://185.27.116.54:1935/livestream/rotanamasr/chunklist_w1209922168.m3u8?v=1485145778
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alhelo/ArabicTV/master/logos/RotanaDrama.jpg", Rotana Drama
+#http://185.27.116.54:1935/livestream/rotanamasr/chunklist_w1209922168.m3u8?v=1485145778
 
 #MBC Sendungen#
 #http://www.elahmad.com/tv/mbc.php
